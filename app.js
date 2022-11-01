@@ -57,7 +57,7 @@ video.addEventListener('play', () => {
     //   console.log('remove OK');
     // });
     // }
-  }, 100);
+  }, 1000);
   // clearInterval(timer);
   if (detections.length > 0) {
     // video.removeEventListener('play', () => {
